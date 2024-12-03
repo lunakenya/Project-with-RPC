@@ -35,6 +35,8 @@ Compile the project:
     java -cp bin server.Server
 ```
 The server will start and be ready to listen for remote calls on the configured port (default: 8089).
+![imagen](https://github.com/user-attachments/assets/30719b57-c34a-43c4-bbf3-0b0760d5991e)
+
 
 2. Run the RMI Client
     Run the client:
@@ -42,3 +44,5 @@ The server will start and be ready to listen for remote calls on the configured 
 java -cp bin client.Client
 ```
 The client will connect to the server and invoke the remote method sayHello.
+![imagen](https://github.com/user-attachments/assets/a4d21d3f-3920-40e7-aac7-ce2bc8b1078f)
+
