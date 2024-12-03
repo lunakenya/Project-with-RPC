@@ -1,5 +1,5 @@
-## Java RPC Example
-# Author
+# Java RPC Example
+## Name
 
     Kenya Luna
 
