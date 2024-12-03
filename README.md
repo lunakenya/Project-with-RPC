@@ -1,7 +1,7 @@
 # Java RPC Example
 ## Name
-
-    Kenya Luna
+ 
+ Kenya Luna
 
 # Java RPC Example
 
@@ -9,14 +9,14 @@ This project is a basic "Hello, World!" implementation using Java RMI (Remote Me
 
 # Features
 
-    - Java RMI: A framework for building distributed systems using Java.
-    - Remote Procedure Call (RPC): Allows clients to call methods on a remote server as if they were local.
-    - Client-Server Architecture: A simple communication flow between a remote server and a client.
-    - Hello, World!: A basic example to verify the RPC setup.
+ - Java RMI: A framework for building distributed systems using Java.
+ - Remote Procedure Call (RPC): Allows clients to call methods on a remote server as if they were local.
+ - Client-Server Architecture: A simple communication flow between a remote server and a client.
+ - Hello, World!: A basic example to verify the RPC setup.
 
 # Requirements
 
-    Java Development Kit (JDK) 8 or higher
+ - Java Development Kit (JDK) 8 or higher
 
 # Installation
 Clone this repository:
@@ -30,15 +30,13 @@ Compile the project:
 
 # Running the Application
 1. Start the RMI Server
-
     Run the server:
 ```bash
     java -cp bin server.Server
 ```
-    The server will start and be ready to listen for remote calls on the configured port (default: 8089).
+The server will start and be ready to listen for remote calls on the configured port (default: 8089).
 
 2. Run the RMI Client
-
     Run the client:
 ```bash
 java -cp bin client.Client
