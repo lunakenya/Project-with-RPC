@@ -21,7 +21,7 @@ This project is a basic "Hello, World!" implementation using Java RMI (Remote Me
 # Installation
 Clone this repository:
 ```bash
-   git clone 
+   git clone https://github.com/lunakenya/Project-with-RPC.git
 ```
 Compile the project:
 ```bash
