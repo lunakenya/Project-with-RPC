@@ -1,0 +1,38 @@
+# Ignore compiled Java files
+*.class
+
+# Ignore output directory (bin)
+bin/
+
+# Ignore OS-specific generated files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE and editor settings
+.vscode/
+.idea/
+*.iml
+
+# Ignore temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
+# Ignore tool-specific configuration files
+.gradle/
+build/
+*.jar
+*.war
+*.ear
+
+# Ignore IntelliJ IDEA / Android Studio configurations
+*.ipr
+*.iws
+*.project
+*.classpath
+
+# Ignore Visual Studio Code workspace files
+*.code-workspace
