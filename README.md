@@ -45,4 +45,3 @@ java -cp bin client.Client
 ```
 The client will connect to the server and invoke the remote method sayHello.
 ![imagen](https://github.com/user-attachments/assets/a4d21d3f-3920-40e7-aac7-ce2bc8b1078f)
-
